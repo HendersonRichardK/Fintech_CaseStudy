@@ -8,6 +8,8 @@ Company:  Coinbase
 
 Incorporated:  2012 Jul 02
 
+Founders:  Brian Armstrong,
+           Fred Ehrsam
 
 
 
