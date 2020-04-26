@@ -64,17 +64,17 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 According to Fintech Magazine the following firms made Forbes recent "FinTech 50 List" for 2020. In addition, to be considered the Six world-leading blockchain and cryptocurrency firms:
 
-Coinbase
+  * Coinbase
 
-Ripple
+  * Ripple
 
-MakerDAO
+  * MakerDAO
 
-Axoni
+  * Axoni
 
-Chainalysis
+  * Chainalysis
 
-Everledger
+  * Everledger
 
 ---
 
