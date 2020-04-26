@@ -18,6 +18,8 @@
 
 Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase makes money on the fees incurred when users buy or sell their currency through its Conversion Services.  In the U.S. the fees are 1.49 percent for using a bank account or Coinbase wallet, and 3.99 percent for using a credit card. 
 
+![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/COINRATE.JPG)
+
 In the early stages, Coinbase was grouped in a class of start-ups being incubated at Y Combinator. In fact, Amstrong initially raised $164,000 before Fred Wilson a venture capitalist from Union Square Ventures invested $5 million into Coinbase. Subsequently, this lead to funding from the following companies over the past 8 years:
 
 **Companies Funded & Transaction Value, Month & Year:**
