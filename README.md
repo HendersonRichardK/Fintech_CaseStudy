@@ -1,2 +1,1 @@
-# Unit1_Homework_Assignment
-Fintech Case Study
+# Fintech Case Study
