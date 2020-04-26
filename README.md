@@ -29,6 +29,8 @@ Aug 2017 - IVP (Institutional Venture Partners) - $108.1 Million
 
 Oct 2018 - Tiger Global Management - $300 Million
 
+Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
+
 ---
 
 ## Business Activities
