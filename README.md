@@ -1,1 +1,3 @@
-# Fintech Case Study
+# FINTECH CASE STUDY
+
+## OVERVIEW AND ORGIN
