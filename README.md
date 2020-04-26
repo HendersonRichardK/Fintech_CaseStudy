@@ -16,8 +16,7 @@
 
 **Funded & Amount Funded:**  
 
-Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase makes money on the fees incurred when users buy or sell their currency through its Conversion Services
-In the U.S. the fees are 1.49 percent for using a bank account or Coinbase wallet, and 3.99 percent for using a credit card. 
+Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase makes money on the fees incurred when users buy or sell their currency through its Conversion Services.  In the U.S. the fees are 1.49 percent for using a bank account or Coinbase wallet, and 3.99 percent for using a credit card. 
 
 In the early stages, Coinbase was grouped in a class of start-ups being incubated at Y Combinator. In fact, Amstrong initially raised $164,000 before Fred Wilson a venture capitalist from Union Square Ventures invested $5 million into Coinbase. Subsequently, this lead to funding from the following companies over the past 8 years:
 
@@ -41,7 +40,7 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 ## Business Activities
 
-Financial Dilemma:
+Financial Dilemma's: Due to the COV-19 pandemic, Bitcon and various other crypto-currencies saw a -50% price decline marking the single largest one-day drop in Bitcoin’s price since 2013.
 
 Intended Customers:
 
