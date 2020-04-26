@@ -6,7 +6,7 @@
 
 Company:  Coinbase
 
-Incorporated: 2012 Jul 02
+Incorporated:  2012 Jul 02
 
 
 
