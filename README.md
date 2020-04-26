@@ -18,10 +18,15 @@
 
 **Companies:**
 May 2013 - Uninion Square Ventures - $5 Million
+
 Dec 2013 - Andreessen Horowitz - $25 Million
+
 Jan 2015 - DFJ Growth - $75 Million 
+
 Jul 2016 - Bank Of Tokyo - Mitsubishi UFJ - $10.5 Million
+
 Aug 2017 - IVP (Institutional Venture Partners) - $108.1 Million
+
 Oct 2018 - Tiger Global Management - $300 Million
 
 ---
