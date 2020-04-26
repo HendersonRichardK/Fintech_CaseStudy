@@ -42,7 +42,7 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 **Coinbase Issues:** Historically, Coinbase has on multiple occasions withdrew unauthorized money from user accounts.  Resulting in negative balances and significant overdraft fees.  According to a statement released by an Coinbase employee, he claimed the issues were a result of a change in the way credit cards classify digital currency transactions. In addition, a second Coinbase employee revealed that “the unexpected charges are originating outside of our control, and are related to charges from previous purchases.” 
 
-Intended Customers:
+**Intended Customers:** Coinbase appeals to consumers are those who are tech savvy and seek more privacy. A recent survey conducted by the Global Blockchain Council and SurveyMonkey that was taken by 5,000 Americans found that 60 percent of Americans have heard of bitcoin and that around five percent hold the digital currency. Estimated based on the entire U.S. population, that would result in 16 million Americans have invested in bitcoin. In addition the results showed that Bitcoin investors have a pretty well-defined profile. And that 71% are male, 58% are a millennial—between 18-34 years old, They trust Bitcoin 7% more than they trust the U.S. government, and If given $1000, they’re roughly 3 times more likely to invest it in Bitcoin than put it into their savings account.  
 
 Technology:
 
@@ -83,7 +83,27 @@ Technology Solution:
 ## Reference Addendum
 
 
+http://allthingsd.com/20120629/betting-on-bitcoin-coinbase-wants-to-be-the-paypal-of-the-internet-only-currency/
 
+https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/#1f004626345b
+
+https://techcrunch.com/2013/12/12/coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/?guccounter=1
+
+https://www.wsj.com/articles/coinbase-raises-75-million-in-funding-round-1421762403
+
+https://blogs.wsj.com/venturecapital/2013/05/07/coinbase-nabs-5m-in-biggest-funding-for-bitcoin-startup/
+
+https://www.cbinsights.com/research/report/coinbase-strategy-teardown/
+
+https://vator.tv/news/2018-05-18-how-coinbase-make-money
+
+https://www.theverge.com/2018/2/15/17017374/coinbase-cryptocurrency-bitcoin-ether-unauthorized-charges
+
+https://www.reddit.com/r/CoinBase/comments/7v5an0/double_charged_check_here_first/
+
+https://www.similarweb.com/website/coinbase.com
+
+https://techcrunch.com/2018/01/23/study-6-in-10-americans-have-heard-about-bitcoin/
 
 
 
