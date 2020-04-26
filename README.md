@@ -40,7 +40,7 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 ## Business Activities
 
-Financial Dilemma's: Due to the COV-19 pandemic, Bitcon and various other crypto-currencies saw a -50% price decline marking the single largest one-day drop in Bitcoin’s price since 2013.
+**Coinbase Issues:** Historically, Coinbase has on multiple occasions withdrew unauthorized money from user accounts.  Resulting in negative balances and significant overdraft fees.  According to a statement released by an Coinbase employee, he claimed the issues were a result of a change in the way credit cards classify digital currency transactions. In addition, a second Coinbase employee revealed that “the unexpected charges are originating outside of our control, and are related to charges from previous purchases.” 
 
 Intended Customers:
 
