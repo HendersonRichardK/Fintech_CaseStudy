@@ -16,7 +16,8 @@
 
 **Funded & Amount Funded:**  In the early stages, Coinbase was grouped in a class of start-ups being incubated at Y Combinator. In fact, Amstrong initially raised $164,000 before Fred Wilson a venture capitalist from Union Square Ventures invested $5 million into Coinbase. Subsequently, this lead to funding from the following companies over the past 8 years:
 
-**Companies:**
+**Companies Funded & Transaction Value, Month & Year:**
+
 May 2013 - Uninion Square Ventures - $5 Million
 
 Dec 2013 - Andreessen Horowitz - $25 Million
