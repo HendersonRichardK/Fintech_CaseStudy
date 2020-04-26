@@ -46,6 +46,8 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 **Intended Customers:** Coinbase appeals to consumers are those who are tech savvy and seek more privacy. A recent survey conducted by the Global Blockchain Council and SurveyMonkey that was taken by 5,000 Americans found that 60 percent of Americans have heard of bitcoin and that around five percent hold the digital currency. Estimated based on the entire U.S. population, that would result in 16 million Americans have invested in bitcoin. In addition the results showed that Bitcoin investors have a pretty well-defined profile. And that 71% are male, 58% are a millennial—between 18-34 years old, They trust Bitcoin 7% more than they trust the U.S. government, and If given $1000, they’re roughly 3 times more likely to invest it in Bitcoin than put it into their savings account.  
 
+![]https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/CoinbaseBTC.jpg)
+
 Technology:
 
 ---
