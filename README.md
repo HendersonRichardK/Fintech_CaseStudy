@@ -48,6 +48,7 @@ Dec 2018 - Fundamental Labs, True Capital, Chainfund Capital - $22 Million
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/COIN4.JPG)
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/COINCOUNTRIES.JPG)
+![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Coinbase-1-800x374.jpg)
 
 Technology:
 
