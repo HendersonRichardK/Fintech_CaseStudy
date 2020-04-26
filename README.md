@@ -18,4 +18,47 @@ Funded & Amount Funded:
 
 ## Business Activities
 
+Financial Dilemma:
+
+Intended Customers:
+
+Technology:
+
+---
+
+## Landscape
+
+Domain:
+
+Innovative Trends:
+
+Competition:
+
+---
+
+## Results
+
+Business Impact:
+
+Core Metrics:
+
+Competitive Landscape:
+
+---
+
+## Recommendations
+
+Advise:
+
+Benefits:
+
+Utilization:
+
+Technology Solution:
+
+
+
+
+
+
 
