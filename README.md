@@ -1,5 +1,7 @@
 # Fintech Case Study
 
+![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Coinbase-1-1200x628.jpg)
+
 ---
 
 ## Overview and Origin
