@@ -50,7 +50,34 @@ In the early stages, Coinbase was grouped in a class of start-ups being incubate
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/COINCOUNTRIES.JPG)
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Coinbase-1-800x374.jpg)
 
-**Technology:** 
+**Coinbase Stack:** Coinbase’s tech stack include the following: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity. In addition, provided bellow are the following software products Coinbase currently uses internally:
+
+
+Marketing: Amazon SES, Google (Apps for Work, Tag Manager), Segment
+
+Sales and BD Stack:  Base CRM, Clearbit Connect
+
+HR: AngelList Jobs, Culture Amp, Greenhouse
+
+Develops and IT:  AWS Elastic Load Balancing, Bugsnag, Cloudfare, DigiCert, Fastly, Medium, New Relic, Vimeo, Wistia, Nginx, reCAPTCHA
+
+Developer:  AMP, CLoudinary, Google Maps, HTML 5, Surge, jQuery
+
+Analytics and Data Science: AWS Kinesis, D3js, Google Analytics, Mixpanel
+
+Productivity: Clerky, FireEye, Google (Drive, Fit SDK), Managed By Q
+
+Customer Support and Success:  Discourse, Google Forms, Olark, Qualtrics Research Core
+
+Finance and Accounting: Emburse, BlockCypher, Sift Science, Square
+
+Product and Design:  Atomic, Calligraphy
+
+Sales and Support: Base CRM, Olark, Salesforce Desk.com
+
+Other:  Entelo, SendSafely
+
+
 
 ---
 
