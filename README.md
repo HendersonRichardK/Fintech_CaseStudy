@@ -134,7 +134,7 @@ In addition, provided bellow are the following software products Coinbase curren
 
 **Domain:** Blockchain and Cryptocurrencies
 
-**Innovative Trends:**
+**Innovative Trends:** 
 
 **Competition:**
 
@@ -200,6 +200,8 @@ https://www.reddit.com/r/CoinBase/comments/7v5an0/double_charged_check_here_firs
 https://www.similarweb.com/website/coinbase.com
 
 https://techcrunch.com/2018/01/23/study-6-in-10-americans-have-heard-about-bitcoin/
+
+https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack&utm_source=quora
 
 
 
