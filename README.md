@@ -82,26 +82,49 @@ In addition, provided bellow are the following software products Coinbase curren
  * reCAPTCHA
 
 **Developer:**  
- * AMP, 
- * CLoudinary, 
- * Google Maps, 
- * HTML 5, 
- * Surge, 
+ * AMP 
+ * CLoudinary 
+ * Google Maps 
+ * HTML 5 
+ * Surge 
  * jQuery
 
-Analytics and Data Science: AWS Kinesis, D3js, Google Analytics, Mixpanel
+**Analytics and Data Science:**
+ * AWS Kinesis 
+ * D3js 
+ * Google Analytics 
+ * Mixpanel
 
-Productivity: Clerky, FireEye, Google (Drive, Fit SDK), Managed By Q
+**Productivity:** 
+ * Clerky 
+ * FireEye 
+ * Google (Drive, Fit SDK) 
+ * Managed By Q
 
-Customer Support and Success:  Discourse, Google Forms, Olark, Qualtrics Research Core
+**Customer Support and Success:**  
+ * Discourse 
+ * Google Forms 
+ * Olark 
+ * Qualtrics Research Core
 
-Finance and Accounting: Emburse, BlockCypher, Sift Science, Square
+**Finance and Accounting:** 
+ * Emburse 
+ * BlockCypher 
+ * Sift Science 
+ * Square
 
-Product and Design:  Atomic, Calligraphy
+**Product and Design:**  
+ * Atomic 
+ * Calligraphy
 
-Sales and Support: Base CRM, Olark, Salesforce Desk.com
+**Sales and Support:** 
+ * Base CRM 
+ * Olark 
+ * Salesforce Desk.com
 
-Other:  Entelo, SendSafely
+**Other:**  
+ * Entelo 
+ * SendSafely
 
 
 
