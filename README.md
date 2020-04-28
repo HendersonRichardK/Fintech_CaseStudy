@@ -50,18 +50,44 @@ In the early stages, Coinbase was grouped in a class of start-ups being incubate
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/COINCOUNTRIES.JPG)
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Coinbase-1-800x374.jpg)
 
-**Coinbase Stack:** Coinbase’s tech stack include the following: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity. In addition, provided bellow are the following software products Coinbase currently uses internally:
+**Coinbase Stack:** Coinbase’s tech stack is comprised of the following: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity. 
 
+In addition, provided bellow are the following software products Coinbase currently uses internally:
 
-Marketing: Amazon SES, Google (Apps for Work, Tag Manager), Segment
+**Marketing:** 
+ * Amazon SES
+ * Google (Apps for Work, Tag Manager)
+ * Segment
 
-Sales and BD Stack:  Base CRM, Clearbit Connect
+**Sales and BD Stack:**  
+ * Base CRM
+ * Clearbit Connect
 
-HR: AngelList Jobs, Culture Amp, Greenhouse
+**HR:** 
+ * AngelList Jobs 
+ * Culture Amp
+ * Greenhouse
 
-Develops and IT:  AWS Elastic Load Balancing, Bugsnag, Cloudfare, DigiCert, Fastly, Medium, New Relic, Vimeo, Wistia, Nginx, reCAPTCHA
+**Develops and IT:**  
+ * AWS Elastic Load Balancing 
+ * Bugsnag 
+ * Cloudfare 
+ * DigiCert 
+ * Fastly 
+ * Medium 
+ * New Relic 
+ * Vimeo 
+ * Wistia 
+ * Nginx 
+ * reCAPTCHA
 
-Developer:  AMP, CLoudinary, Google Maps, HTML 5, Surge, jQuery
+**Developer:**  
+ * AMP, 
+ * CLoudinary, 
+ * Google Maps, 
+ * HTML 5, 
+ * Surge, 
+ * jQuery
 
 Analytics and Data Science: AWS Kinesis, D3js, Google Analytics, Mixpanel
 
