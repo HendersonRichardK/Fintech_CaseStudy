@@ -163,7 +163,7 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement. Illustrated below, Bitcoin prices are correlated to the usage of Coinbase.
+Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement. Illustrated below, Bitcoin prices are correlated to Apple Inc ranking of Coinbase.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
