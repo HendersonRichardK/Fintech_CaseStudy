@@ -55,14 +55,14 @@ In the early stages, Coinbase was grouped in a class of start-ups being incubate
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COIN4.jpg)
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COINCOUNTRIES.jpg)
 
-**Coinbase Stack:** Coinbase’s tech stack is comprised of the following: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity. 
+**Coinbase Stack:** In 2016, Coinbase developed the GDAX (Global Digital Asset Exchange) it is a cryptocurrency exchange that allows people to buy, sell and trade a range of digital coins. In addition, provided bellow are the following software products Coinbase currently uses internally:
 
-In addition, provided bellow are the following software products Coinbase currently uses internally:
+The utilization of each stack listed above is located on [site](https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack&utm_source=quora)
 
 **Marketing:** 
- * Amazon SES
+ * Amazon SES 
  * Google (Apps for Work, Tag Manager)
- * Segment
+ * Segment 
 
 **Sales and BD Stack:**  
  * Base CRM
@@ -130,6 +130,7 @@ In addition, provided bellow are the following software products Coinbase curren
 **Other:**  
  * Entelo 
  * SendSafely
+
 ---
 
 ## Landscape
