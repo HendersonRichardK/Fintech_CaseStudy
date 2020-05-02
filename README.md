@@ -5,9 +5,10 @@
 
 ## Overview and Origin
 
-**Company:**  Coinbase
+**Company:**  Coinbase - (click picture below to access YouTube video)
 
 [![Coinbase](http://img.youtube.com/vi/IWeCQkIJNkY/0.jpg)](https://www.youtube.com/watch?v=IWeCQkIJNkY "Coinbase")
+
 
 **Incorporated:**  2012 Jul 2
 
@@ -162,7 +163,7 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement.
+Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement. Illustrated below, Bitcoin prices are correlated to the usage of Coinbase.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
