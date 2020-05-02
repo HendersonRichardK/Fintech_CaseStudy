@@ -199,55 +199,32 @@ Blockhain Messaenger would allow people to create and join active private chats,
 
 ## Reference Addendum
 
+Bangkok Post Public Company Limited. (n.d.). Blockchain innovations to watch. Retrieved from https://www.bangkokpost.com/business/1846064/blockchain-innovations-to-watch
 
-http://allthingsd.com/20120629/betting-on-bitcoin-coinbase-wants-to-be-the-paypal-of-the-internet-only-currency/
+Basarab, B., BasarabExperienced, B., & Basarab, B. (2020, April 1). Coinbase Review: The Must-Read Crypto Exchange Guide. Retrieved from https://blokt.com/guides/coinbase-review#Buying_and_Selling_Fees
 
-https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/#1f004626345b
+Biggs, J. (2018, January 23). Study: 6 in 10 Americans have heard about Bitcoin. Retrieved from https://techcrunch.com/2018/01/23/study-6-in-10-americans-have-heard-about-bitcoin/
 
-https://techcrunch.com/2013/12/12/coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/?guccounter=1
+Castillo, M. del. (2020, February 21). Bitcoin's Guardian Angel: Inside Coinbase Billionaire Brian Armstrong's Plan To Make Crypto Safe For All. Retrieved from https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/#1f004626345b
 
-https://www.wsj.com/articles/coinbase-raises-75-million-in-funding-round-1421762403
+Coinbase Stack. (n.d.). Retrieved from https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack&utm_source=quora
 
-https://blogs.wsj.com/venturecapital/2013/05/07/coinbase-nabs-5m-in-biggest-funding-for-bitcoin-startup/
+Coinbase Strategy Teardown: How Coinbase Grew Into the King Midas of Crypto Doing $1B in Revenue. (n.d.). Retrieved from https://www.cbinsights.com/research/report/coinbase-strategy-teardown/
 
-https://www.cbinsights.com/research/report/coinbase-strategy-teardown/
+coinbase.com Traffic Statistics. (n.d.). Retrieved from https://www.similarweb.com/website/coinbase.com
 
-https://vator.tv/news/2018-05-18-how-coinbase-make-money
+How does Coinbase make money? (2018, May 18). Retrieved from https://vator.tv/news/2018-05-18-how-coinbase-make-money
 
-https://www.theverge.com/2018/2/15/17017374/coinbase-cryptocurrency-bitcoin-ether-unauthorized-charges
+Jeffries, A. (2018, February 15). Coinbase is erratically overcharging some users and emptying their bank accounts. Retrieved from https://www.theverge.com/2018/2/15/17017374/coinbase-cryptocurrency-bitcoin-ether-unauthorized-charges
 
-https://www.reddit.com/r/CoinBase/comments/7v5an0/double_charged_check_here_first/
+Marr, B. (2019, May 13). 5 Blockchain Trends Everyone Should Know About. Retrieved from https://www.forbes.com/sites/bernardmarr/2019/01/28/5-blockchain-trends-everyone-should-know-about/#3b6a3ecc3bb9
 
-https://www.similarweb.com/website/coinbase.com
+Mossberg, W., Swisher, K., Dearing, M., Hesseldahl, A., Cha, B., Goode, L., … Digital Solution. (n.d.). Betting on Bitcoin: Coinbase Wants to Be the PayPal of Internet-Only Currency. Retrieved from http://allthingsd.com/20120629/betting-on-bitcoin-coinbase-wants-to-be-the-paypal-of-the-internet-only-currency/
 
-https://techcrunch.com/2018/01/23/study-6-in-10-americans-have-heard-about-bitcoin/
+Needleman, S. E. (2013, May 8). Coinbase Nabs $5M in Biggest Funding for Bitcoin Startup. Retrieved from https://blogs.wsj.com/venturecapital/2013/05/07/coinbase-nabs-5m-in-biggest-funding-for-bitcoin-startup/
 
-https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack&utm_source=quora
+Person. (2013, December 12). Coinbase Raises $25M Led By Andreessen Horowitz To Build Its Bitcoin Wallet And Merchant Services. Retrieved from https://techcrunch.com/2013/12/12/coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/?guccounter=1
 
-https://www.forbes.com/sites/bernardmarr/2019/01/28/5-blockchain-trends-everyone-should-know-about/#3b6a3ecc3bb9
+r/CoinBase - Double Charged? Check here first. (n.d.). Retrieved from https://www.reddit.com/r/CoinBase/comments/7v5an0/double_charged_check_here_first/
 
-https://www.bangkokpost.com/business/1846064/blockchain-innovations-to-watch
-
-https://blokt.com/guides/coinbase-review#Buying_and_Selling_Fees
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
+Vigna, P., & Casey, M. J. (2015, January 20). Coinbase Raises $75 Million in Funding Round. Retrieved from https://www.wsj.com/articles/coinbase-raises-75-million-in-funding-round-1421762403
