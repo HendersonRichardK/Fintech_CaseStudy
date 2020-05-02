@@ -20,9 +20,7 @@
           
 **Inception:**  In 2010, Co-Founder Brian Armstrong read the manifesto published by Satoshi Nakamoto, that proposed bitcoin as an underground currency.  In which transactions are recorded on a ledger called Blockchain, maintained in duplicated computer files by a band of self-appointed guardians called nodes.  For this reason, Armstrong saw an opportunity in the business of safeguarding the keys to the coins and setting up transactions. Thus leading to the development of Coinbase a simple way for people to buy and sell Bitcoins using bank transfers. 
 
-**Funded & Amount Funded:**  
-
-Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase charges a ‘Coinbase Fee’ on all transactions, which is the greater of either a flat rate or a percentage rate depending on location and payment type.  The flat fee only applies to amounts less than $200 to account for the costs of processing. In most cases, Coinbase’s rate of 1.49% per transaction will apply (3.99% for credit and debit cards). Furthermore, there is approximately 0.5% spread that Coinbase places on the current market rate for any cryptocurrency, and the size of this spread can fluctuate depending on current market circumstances.  Meaning that any purchase of a cryptocurrency will be at a 0.5% higher price than the actual market price at the time of the transaction, and 0.5% lower in the case of a sale.
+**Funded & Amount Funded:**  Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase charges a ‘Coinbase Fee’ on all transactions, which is the greater of either a flat rate or a percentage rate depending on location and payment type.  The flat fee only applies to amounts less than $200 to account for the costs of processing. In most cases, Coinbase’s rate of 1.49% per transaction will apply (3.99% for credit and debit cards). Furthermore, there is approximately 0.5% spread that Coinbase places on the current market rate for any cryptocurrency, and the size of this spread can fluctuate depending on current market circumstances.  Meaning that any purchase of a cryptocurrency will be at a 0.5% higher price than the actual market price at the time of the transaction, and 0.5% lower in the case of a sale.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COINRATE.jpg)
 
@@ -144,9 +142,7 @@ The utilization of each stack listed below is located on this [site](https://sta
   *  More Blockchain Offerings from the Financial Services Industry
   
 
-**Competition:**
-
-According to Fintech Magazine the following firms made Forbes recent "FinTech 50 List" for 2020. In addition, to be considered the Six world-leading blockchain and cryptocurrency firms:
+**Competition:**  According to Fintech Magazine the following firms made Forbes recent "FinTech 50 List" for 2020. In addition, to be considered the Six world-leading blockchain and cryptocurrency firms:
 
   * Coinbase
 
@@ -164,15 +160,15 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement. Illustrated below, Bitcoin prices are correlated to Apple Inc ranking of Coinbase.
+**Business Impact:**  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement. Illustrated below, Bitcoin prices are correlated to Apple Inc ranking of Coinbase.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
-Core Metrics:
+**Core Metrics:**
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/Metrics.jpg)
 
-Competitive Landscape:  Recently Coinbase, missed out on the number one spot in a ranking of crypto exchanges due to a 2019 Bitcoin (BTC) price glitch.
+**Competitive Landscape:**  Recently Coinbase, missed out on the number one spot in a ranking of crypto exchanges due to a 2019 Bitcoin (BTC) price glitch.
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/rank.jpg)
 
@@ -180,15 +176,15 @@ Competitive Landscape:  Recently Coinbase, missed out on the number one spot in 
 
 ## Recommendations
 
-Advice:  Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
+**Advice:**  Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
 
 Coinbase has limited Cryptocurrencies and Trading Features. Despite Coinbase efforts to provide access to most major coins, the lack of access to less than popular coins limits the amount of availability provided by the company. Furthermore, the unsufficient amount of advanced analytical tools leads to online traders relying to outside tools to perform trading strategies. 
 
-Benefits:  Security.  Coinbase’s security features range from mandatory 2-step verification to institutional industry best practices to cold storage of 98% of digital assets to insurance for both digital and fiat assets. All these security features add up to make Coinbase as safe as is possible when it comes to protecting your assets.
+**Benefits:**  Security.  Coinbase’s security features range from mandatory 2-step verification to institutional industry best practices to cold storage of 98% of digital assets to insurance for both digital and fiat assets. All these security features add up to make Coinbase as safe as is possible when it comes to protecting your assets.
 
-Utilization:  Blockchain Messenger
+**Utilization:**  Blockchain Messenger
 
-Technology Solution:  Blockhain Messaenger would allow people to create and join active private chats, groups, and discussions amongst the crypto-currency community. This would serve to facilitate information and transaction exchange between traders whom are looking to discuss and exchange cryptocurrencies. 
+**Technology Solution:**  Blockhain Messaenger would allow people to create and join active private chats, groups, and discussions amongst the crypto-currency community. This would serve to facilitate information and transaction exchange between traders whom are looking to discuss and exchange cryptocurrencies. 
 
 ---
 
