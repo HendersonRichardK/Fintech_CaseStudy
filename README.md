@@ -15,11 +15,11 @@
 
                           Fred Ehrsam                                    Brian Armstrong
           
-**Inception:**  In 2010, Co-Founder Brian Armstrong read the manifesto published by Satoshi Nakamoto, that proposed bitcoin as an underground currency.  In which transactions are recorded on a ledger called Blockchain, maintained in duplicated computer files by a band of self-appointed guardians called nodes.  For this reason, Armstrong saw an opportunity in the business of safeguarding the keys to the coins and setting up transactions. Therefore purchasing $1,000 worth bitcoin at $9 a coin. 
+**Inception:**  In 2010, Co-Founder Brian Armstrong read the manifesto published by Satoshi Nakamoto, that proposed bitcoin as an underground currency.  In which transactions are recorded on a ledger called Blockchain, maintained in duplicated computer files by a band of self-appointed guardians called nodes.  For this reason, Armstrong saw an opportunity in the business of safeguarding the keys to the coins and setting up transactions. Thus leading to the development of Coinbase a simple way for people to buy and sell Bitcoins using bank transfers. 
 
 **Funded & Amount Funded:**  
 
-Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase makes money on the fees incurred when users buy or sell their currency through its Conversion Services.  In the U.S. the fees are 1.49 percent for using a bank account or Coinbase wallet, and 3.99 percent for using a credit card. 
+Coinbase brokers exchanges various crypto-currencies such as Bitcoin, Bitcoin Cash, Ethereum, and Litecoin. Thus allowing users to invest by scheduling buys daily, weekly or monthly, while also securely storing their assets, and insurance. Essentially, Coinbase charges a ‘Coinbase Fee’ on all transactions, which is the greater of either a flat rate or a percentage rate depending on location and payment type.  The flat fee only applies to amounts less than $200 to account for the costs of processing. In most cases, Coinbase’s rate of 1.49% per transaction will apply (3.99% for credit and debit cards). Furthermore, there is an approximately 0.5% spread that Coinbase places on the current market rate for any cryptocurrency, and the size of this spread can fluctuate depending on current market circumstances.  Meaning that any purchase of a cryptocurrency will be at a 0.5% higher price than the actual market price at the time of the transaction, and 0.5% lower in the case of a sale.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COINRATE.jpg)
 
@@ -51,7 +51,6 @@ In the early stages, Coinbase was grouped in a class of start-ups being incubate
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COIN4.jpg)
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/COINCOUNTRIES.jpg)
-![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
 **Coinbase Stack:** Coinbase’s tech stack is comprised of the following: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity. 
 
@@ -136,6 +135,7 @@ In addition, provided bellow are the following software products Coinbase curren
 ## Landscape
 
 **Domain:** Blockchain and Cryptocurrencies
+![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/blockchain.jpg)
 
 **Trends & Innovations:**  Aside from its efficiency, blockchain's success in the financial sector has been driven by another prized luxury: security. Its peer-to-peer verification system -- which distributes the control once held by a single server to process massive amounts of data -- has become a compelling solution for financial institutions. The online ledger's immutability provides the assurance it will be safe from malicious outside forces.
 
@@ -165,9 +165,9 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 Business Impact:  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
 
-
-
 Core Metrics:
+
+![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
 Competitive Landscape:
 
