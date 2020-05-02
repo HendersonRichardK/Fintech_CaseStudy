@@ -1,11 +1,13 @@
 # Fintech Case Study
-
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-1200x628.jpg)
+
 ---
 
 ## Overview and Origin
 
-**Company:**  Coinbase
+**Company:**. Coinbase
+
+[![Coinbase](http://img.youtube.com/vi/IWeCQkIJNkY/0.jpg)](https://www.youtube.com/watch?v=IWeCQkIJNkY "Coinbase")
 
 **Incorporated:**  2012 Jul 2
 
@@ -164,6 +166,9 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 ## Results
 
 Business Impact:  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
+
+%HTML
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IWeCQkIJNkY" frameborder="0" allowfullscreen></iframe>
 
 Core Metrics:
 
