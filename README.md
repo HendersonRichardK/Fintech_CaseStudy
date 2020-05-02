@@ -167,9 +167,6 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 Business Impact:  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
 
-%HTML
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IWeCQkIJNkY" frameborder="0" allowfullscreen></iframe>
-
 Core Metrics:
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
@@ -220,6 +217,8 @@ https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack
 https://www.forbes.com/sites/bernardmarr/2019/01/28/5-blockchain-trends-everyone-should-know-about/#3b6a3ecc3bb9
 
 https://www.bangkokpost.com/business/1846064/blockchain-innovations-to-watch
+
+https://blokt.com/guides/coinbase-review#Buying_and_Selling_Fees
 
 
 
