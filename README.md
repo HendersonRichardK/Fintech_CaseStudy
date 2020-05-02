@@ -13,6 +13,8 @@
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/Coinbase-founders-Fred-Ehrsam-Brian-Armstrong.jpg)
 
+                          Fred Ehrsam                                    Brian Armstrong
+          
 **Inception:**  In 2010, Co-Founder Brian Armstrong read the manifesto published by Satoshi Nakamoto, that proposed bitcoin as an underground currency.  In which transactions are recorded on a ledger called Blockchain, maintained in duplicated computer files by a band of self-appointed guardians called nodes.  For this reason, Armstrong saw an opportunity in the business of safeguarding the keys to the coins and setting up transactions. Therefore purchasing $1,000 worth bitcoin at $9 a coin. 
 
 **Funded & Amount Funded:**  
