@@ -162,7 +162,7 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
+Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
@@ -170,19 +170,29 @@ Core Metrics:
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/Metrics.jpg)
 
-Competitive Landscape:
+Competitive Landscape:  Recently Coinbase, missed out on the number one spot in a ranking of crypto exchanges due to a 2019 Bitcoin (BTC) price glitch. Coinbase failed to top CryptoCompare’s crypto Exchange Benchmark rankings because its institutional trading arm Coinbase Pro experienced a major Bitcoin price flash crash in October 2019.
+
+![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/rank.jpg)
 
 ---
 
 ## Recommendations
 
-Advise:
+Advice:  
 
-Benefits:
+Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
 
-Utilization:
+Coinbase has Limited Cryptocurrencies and Trading Features. Coinbase does offer access to most major coins, the lack of access to less popular coins can be a huge drawback for cryptocurrency investors and traders. Furthermore, the lack of any advanced analytical tools means that traders would need to rely on outside data and tools to perform their trading strategies. 
 
-Technology Solution:
+Benefits:    
+
+Security.  Coinbase’s security features range from mandatory 2-step verification to institutional industry best practices to cold storage of 98% of digital assets to insurance for both digital and fiat assets. All these security features add up to make Coinbase as safe as is possible when it comes to protecting your assets.
+
+Utilization:  Blockchain Messenger
+
+Technology Solution:  you can join active private chats, private and public groups, and discussions that serve not only the cryptocurrency community but also the wider community at large.
+ 
+The messenger serves to facilitate information and transaction exchange between people who are looking to discuss and exchange cryptocurrencies. The messenger runs on a secure infrastructure that protects the users from interferences and interruptions. Built using proprietary distributed technology with servers implemented around the world, BeeChat offers fast and reliable communication in an ever-changing cryptocurrency landscape.
 
 ---
 
