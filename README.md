@@ -134,7 +134,11 @@ In addition, provided bellow are the following software products Coinbase curren
 
 **Domain:** Blockchain and Cryptocurrencies
 
-**Innovative Trends:** 
+**Trends & Innovations:**  Aside from its efficiency, blockchain's success in the financial sector has been driven by another prized luxury: security. Its peer-to-peer verification system -- which distributes the control once held by a single server to process massive amounts of data -- has become a compelling solution for financial institutions. The online ledger's immutability provides the assurance it will be safe from malicious outside forces.
+
+  *  According to Forbes, the use of blockchain technology to secure data and devices in the internet of things (IoT) doubled during 2018. There is a strong possibility this trend continues into the foreseeable future, as more organizations wake up to the potential of distributed, encrypted ledger technology in this field. 
+  *  More Blockchain Offerings from the Financial Services Industry
+  
 
 **Competition:**
 
@@ -156,7 +160,9 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:
+Business Impact:  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
+
+
 
 Core Metrics:
 
@@ -202,6 +208,10 @@ https://www.similarweb.com/website/coinbase.com
 https://techcrunch.com/2018/01/23/study-6-in-10-americans-have-heard-about-bitcoin/
 
 https://stack.g2.com/company/coinbase?utm_campaign=coinbase&utm_medium=techstack&utm_source=quora
+
+https://www.forbes.com/sites/bernardmarr/2019/01/28/5-blockchain-trends-everyone-should-know-about/#3b6a3ecc3bb9
+
+https://www.bangkokpost.com/business/1846064/blockchain-innovations-to-watch
 
 
 
