@@ -180,21 +180,15 @@ Competitive Landscape:  Recently Coinbase, missed out on the number one spot in 
 
 ## Recommendations
 
-Advice:  
-
-Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
+Advice:  Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
 
 Coinbase has limited Cryptocurrencies and Trading Features. Despite Coinbase efforts to provide access to most major coins, the lack of access to less than popular coins limits the amount of availability provided by the company. Furthermore, the unsufficient amount of advanced analytical tools leads to online traders relying to outside tools to perform trading strategies. 
 
-Benefits:    
-
-Security.  Coinbase’s security features range from mandatory 2-step verification to institutional industry best practices to cold storage of 98% of digital assets to insurance for both digital and fiat assets. All these security features add up to make Coinbase as safe as is possible when it comes to protecting your assets.
+Benefits:  Security.  Coinbase’s security features range from mandatory 2-step verification to institutional industry best practices to cold storage of 98% of digital assets to insurance for both digital and fiat assets. All these security features add up to make Coinbase as safe as is possible when it comes to protecting your assets.
 
 Utilization:  Blockchain Messenger
 
-Technology Solution:  
-
-Blockhain Messaenger would allow people to create and join active private chats, groups, and discussions amongst the crypto-currency community. This would serve to facilitate information and transaction exchange between traders whom are looking to discuss and exchange cryptocurrencies. 
+Technology Solution:  Blockhain Messaenger would allow people to create and join active private chats, groups, and discussions amongst the crypto-currency community. This would serve to facilitate information and transaction exchange between traders whom are looking to discuss and exchange cryptocurrencies. 
 
 ---
 
