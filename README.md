@@ -136,7 +136,7 @@ In addition, provided bellow are the following software products Coinbase curren
 **Domain:** Blockchain and Cryptocurrencies
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/blockchain.jpg)
 
-**Trends & Innovations:**  Aside from its efficiency, blockchain's success in the financial sector has been driven by another prized luxury: security. Its peer-to-peer verification system -- which distributes the control once held by a single server to process massive amounts of data -- has become a compelling solution for financial institutions. The online ledger's immutability provides the assurance it will be safe from malicious outside forces.
+**Trends & Innovations:**  Blockchain's success in the financial industry has been a result of the security measures offered. The P2P verification system distributes control once held by a single server to process massive amounts of data. This provides safery assurance from malicious outside forces.
 
   *  According to Forbes, the use of blockchain technology to secure data and devices in the internet of things (IoT) doubled during 2018. There is a strong possibility this trend continues into the foreseeable future, as more organizations wake up to the potential of distributed, encrypted ledger technology in this field. 
   *  More Blockchain Offerings from the Financial Services Industry
@@ -162,7 +162,7 @@ According to Fintech Magazine the following firms made Forbes recent "FinTech 50
 
 ## Results
 
-Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike many of its competitors. And Coinbase's compliance with existing regulations and law enforcement, putting it on the right side of the law — another huge asset in a sector that is still in desperate need of regulatory guidance.
+Business Impact:  Coinbase was recently valued at $8 billion after raising $300 million in a Series E funding round.  Coinbase's popularity can be directly correlated to the fact that they've never been hacked, unlike various other competitors. And Coinbase's compliance with current regulations and law enforcement.
 
 ![](https://github.com/HendersonRichardK/Unit1_Homework_Assignment/blob/master/Images/Coinbase-1-800x374.jpg)
 
@@ -170,7 +170,7 @@ Core Metrics:
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/Metrics.jpg)
 
-Competitive Landscape:  Recently Coinbase, missed out on the number one spot in a ranking of crypto exchanges due to a 2019 Bitcoin (BTC) price glitch. Coinbase failed to top CryptoCompare’s crypto Exchange Benchmark rankings because its institutional trading arm Coinbase Pro experienced a major Bitcoin price flash crash in October 2019.
+Competitive Landscape:  Recently Coinbase, missed out on the number one spot in a ranking of crypto exchanges due to a 2019 Bitcoin (BTC) price glitch.
 
 ![](https://github.com/HendersonRichardK/Fintech_CaseStudy/blob/master/Images/rank.jpg)
 
@@ -182,7 +182,7 @@ Advice:
 
 Coinbase is too costly. The fees and spreads charged for fiat-to-crypto and crypto-to-crypto transactions are amongst the highest in the industry.   
 
-Coinbase has Limited Cryptocurrencies and Trading Features. Coinbase does offer access to most major coins, the lack of access to less popular coins can be a huge drawback for cryptocurrency investors and traders. Furthermore, the lack of any advanced analytical tools means that traders would need to rely on outside data and tools to perform their trading strategies. 
+Coinbase has limited Cryptocurrencies and Trading Features. Despite Coinbase efforts to provide access to most major coins, the lack of access to less than popular coins limits the amount of availability provided by the company. Furthermore, the unsufficient amount of advanced analytical tools leads to online traders relying to outside tools to perform trading strategies. 
 
 Benefits:    
 
@@ -190,9 +190,9 @@ Security.  Coinbase’s security features range from mandatory 2-step verificati
 
 Utilization:  Blockchain Messenger
 
-Technology Solution:  you can join active private chats, private and public groups, and discussions that serve not only the cryptocurrency community but also the wider community at large.
- 
-The messenger serves to facilitate information and transaction exchange between people who are looking to discuss and exchange cryptocurrencies. The messenger runs on a secure infrastructure that protects the users from interferences and interruptions. Built using proprietary distributed technology with servers implemented around the world, BeeChat offers fast and reliable communication in an ever-changing cryptocurrency landscape.
+Technology Solution:  
+
+Blockhain Messaenger would allow people to create and join active private chats, groups, and discussions amongst the crypto-currency community. This would serve to facilitate information and transaction exchange between traders whom are looking to discuss and exchange cryptocurrencies. 
 
 ---
 
